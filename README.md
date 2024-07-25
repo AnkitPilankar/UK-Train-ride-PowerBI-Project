@@ -1,6 +1,7 @@
 UK Train Ride Data Analysis Project 
 
-![bn](https://github.com/user-attachments/assets/80f624f2-f072-4151-b0fd-dc2a34a93668)
+![DADADADAD](https://github.com/user-attachments/assets/d00268c4-c472-4ae4-8363-1ffe134e12f5)
+
 
 
 Challenge link :https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3
