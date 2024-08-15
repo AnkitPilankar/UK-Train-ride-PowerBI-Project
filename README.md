@@ -1,6 +1,8 @@
 UK Train Ride Data Analysis Project 
 
 ![eeee](https://github.com/user-attachments/assets/ce5aca1d-a1e1-47ce-b299-61da79d5c216)
+![neww](https://github.com/user-attachments/assets/a9314cab-bb71-40d8-ae43-80d6cbc8fc35)
+
 
 
 
