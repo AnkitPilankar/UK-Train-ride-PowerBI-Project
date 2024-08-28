@@ -31,23 +31,24 @@ Average Ticket Price
 Average Delay Time
 
 Charts and Visualizations:
-Most Frequent Train Routes
-Reason for Delay
-Total Transactions by Purchase Type
-Revenue by Ticket Type
-Tickets Booked by Payment Method
-Tickets Booked by Rail Card Type
-Heat Map to Show Correlation Between Date and Time
+Most Frequent Train Routes,
+Reason for Delay,
+Total Transactions by Purchase Type,
+Revenue by Ticket Type,
+Tickets Booked by Payment Method,
+Tickets Booked by Rail Card Type,
+Heat Map to Show Correlation Between Date and Time,
 Tooltip for Most Frequent Routes (Average Delay Time and Reason)
 
 Matrix
-Busiest Booking Time by Month
-Calculation Details
-Time Categorization
-To calculate and categorize time, the following steps were taken:
+Busiest Booking Time by Month,
+Calculation Details,
+Time Categorization,
 
+To calculate and categorize time, the following steps were taken:
 Extracting Hour from Time:
 Extract the hour component from the time value (e.g., 1:30 becomes 1).
+
 Categorizing Time:
 Use a SWITCH function to categorize time into hourly segments.
 Example: If the time is between 1 and 2, it falls into the "1-2" category.
@@ -64,9 +65,13 @@ TimeCategory = SWITCH(
 Project Features
 
 Interactive Slicers: Allow users to filter data based on various metrics.
+
 Insightful Charts: Visualize key aspects of the data including revenue, ticket bookings, delays, and reasons for delays.
+
 Correlation Analysis: Use heat maps to explore the relationship between different variables.
-Tooltips: Provide additional information on most frequent routes, including average delay time and reasons for delays.
+
+Tooltips: Provide additional information on frequent routes, including average delay time and reasons for delays.
+
 Matrix Visualization: Highlight the busiest booking times by month.
 
 Conclusion
